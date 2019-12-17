@@ -1,0 +1,62 @@
+[
+  {
+    "device_id": 1,
+    "deviceName": "Vacuum Distillation Unit",
+    "temperature": "125°C",
+    "pressure": "89 mmHg",
+    "max_temperature": "146°C",
+    "allowed_temperature": "150°C",
+    "allowed_pressure": "100 mmHg",
+    "image": "https://www.maveng.com/images/vacuum-distillation01.jpg"
+  },
+  {
+    "device_id": 2,
+    "deviceName": "Diesel Hydrotreating Unit",
+    "temperature": "1235°C",
+    "pressure": "189 mmHg",
+    "max_temperature": "1456°C",
+    "allowed_temperature": "1500°C",
+    "allowed_pressure": "190 mmHg",
+    "image": "http://www.peiyangchem.com/uploads/image/20170727/14/diesel-hydrotreating-unit.png"
+  },
+  {
+    "device_id": 3,
+    "deviceName": "Semi-regenerative Reforming",
+    "temperature": "425°C",
+    "pressure": "76 mmHg",
+    "max_temperature": "646°C",
+    "allowed_temperature": "750°C",
+    "allowed_pressure": "100 mmHg",
+    "image": "http://www.peiyangchem.com/uploads/image/20170727/14/semi-regenerative-reforming.png"
+  },
+  {
+    "device_id": 4,
+    "deviceName": "Fluid Catalytic Cracking Unit",
+    "temperature": "93°C",
+    "pressure": "149 mmHg",
+    "max_temperature": "126°C",
+    "allowed_temperature": "150°C",
+    "allowed_pressure": "150 mmHg",
+    "image": "https://rentar.com/wp-content/uploads/2019/02/Fluid-Catalytic-Cracking-and-Hydrocracking.jpeg"
+  },
+  {
+    "device_id": 5,
+    "deviceName": "Sulfur Recovery Unit",
+    "temperature": "95°C",
+    "pressure": "54 mmHg",
+    "max_temperature": "99°C",
+    "allowed_temperature": "100°C",
+    "allowed_pressure": "700 mmHg",
+    "image": "https://www.kt-met.com/sites/default/files/2018-11/DSC04177_web.jpg"
+  },
+  {
+    "device_id": 6,
+    "deviceName": "Isomerization Unit",
+    "temperature": "65°C",
+    "pressure": "69 mmHg",
+    "max_temperature": "86°C",
+    "allowed_temperature": "90°C",
+    "allowed_pressure": "70 mmHg",
+    "image": "https://www.neste.com/sites/default/files/image_gallery/refineries/porvoo/bessi_tl1_seisokki_2015_2.jpg"
+  }
+]
