@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start-dev": "PORT=8000 ./node_modules/nodemon/bin/nodemon.js .",
-    "start-prod": "node ."
+    "start-prod": "node .",
+    "start-pm2": "pm2 start ."
   },
   "keywords": [],
   "author": "",
